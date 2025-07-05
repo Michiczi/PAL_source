@@ -1,0 +1,16 @@
+{
+	"name": "Moj Repozytorium",
+	"identifier": "com.michal.altstore",
+	"apps": [
+		{
+			"name": "MojaAppka",
+			"bundleIdentifier": "com.michal.mojaappka",
+			"developerName": "Michał Kardasz",
+			"subtitle": "Wersja testowa",
+			"version": "1.0",
+			"iconURL": "https://michal.github.io/altstore-source/icon.png",
+			"tintColor": "007aff",
+			"installURL": "https://michal.github.io/altstore-source/myApp.ipa"
+		}
+	]
+}
