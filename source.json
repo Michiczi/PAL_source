@@ -4,7 +4,7 @@
 	"apps": [
 		{
 			"name": "Morrolingo_demo",
-			"bundleIdentifier": "com.michal.mojaappka",
+			"bundleIdentifier": "com.michal.morrolingoTest",
 			"developerName": "Michał Kardasz",
 			"subtitle": "Wersja testowa",
 			"version": "1.0",
