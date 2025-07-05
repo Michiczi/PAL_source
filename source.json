@@ -12,7 +12,7 @@
 			"localizedDescription": "Testowa aplikacja Michała do instalacji przez AltStore PAL",
 			"iconURL": "https://michiczi.github.io/PAL_source/icon.png",
 			"tintColor": "007aff",
-			"installURL": "https://michiczi.github.io/PAL_source/Morrolingo_demo.ipa"
+			"downloadURL": "https://michiczi.github.io/PAL_source/Morrolingo_demo.ipa"
 		}
 	]
 }
