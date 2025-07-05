@@ -8,6 +8,7 @@
 			"developerName": "Michał Kardasz",
 			"subtitle": "Wersja testowa",
 			"version": "1.0",
+			"versionDate": "2024-05-07",
 			"localizedDescription": "Testowa aplikacja Michała do instalacji przez AltStore PAL",
 			"iconURL": "https://michiczi.github.io/PAL_source/icon.png",
 			"tintColor": "007aff",
